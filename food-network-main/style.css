@@ -1,0 +1,161 @@
+* {
+  margin: auto;
+}
+img {
+  width: 100%;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.bg-styles {
+  background-image: url("./images/shapes/Frame\ 57.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.common-wrapper {
+  width: 50%;
+}
+.container {
+  display: flex;
+
+  margin: 36px 70px;
+}
+h1 {
+  font-size: 50px;
+  color: #575757;
+  text-transform: uppercase;
+}
+.text-color {
+  color: #4fcbfb;
+}
+.p {
+  color: #828282;
+  font-size: 20px;
+  font-weight: 300;
+}
+.heading {
+  margin-bottom: 30px;
+}
+.p-common {
+  margin-bottom: 30px;
+}
+button {
+  width: 140px;
+  border-radius: 25px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  padding: 17px;
+  margin-top: 30px;
+}
+.button-color {
+  background-image: linear-gradient(#8ccceb, #bce3e7);
+  border: none;
+}
+.button-color a {
+  font-size: 14px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.co-section {
+  margin-bottom: 120px;
+}
+.first-banner img {
+  display: block;
+  max-width: 736px;
+}
+.image-common img {
+  height: auto;
+  margin: auto;
+}
+.imgae-about-me {
+  max-width: 300px;
+}
+h2 {
+  color: #707070;
+  font-size: 40px;
+}
+.about-info {
+  width: 55%;
+  color: #18191f;
+  margin: 0;
+  font-size: 18px;
+}
+.about-me-img {
+  margin-top: 40px;
+}
+.row-1 {
+  text-align: center;
+}
+.description {
+  width: 32%;
+}
+.row-2 {
+  display: flex;
+  flex-direction: row;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 25%;
+  border-radius: 20px 20px 20px 20px;
+}
+.card-full-width {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 80%;
+  border-radius: 20px 20px 20px 20px;
+}
+.image-card {
+  margin: 20px;
+  padding: 0;
+  overflow: hidden;
+}
+.image-card img {
+  height: auto;
+  border-radius: 20px 20px 20px 20px;
+  max-width: 100%;
+}
+.content {
+  padding: 2rem;
+}
+.content {
+}
+h4 {
+  margin-bottom: 1rem;
+}
+.content h4 {
+  text-align: left;
+  font-size: 17px;
+  font-weight: 700;
+}
+.content p {
+  margin: 0;
+  font-size: 18px;
+}
+.card-full-width {
+  padding: 40px;
+}
+.yt-follower span {
+  font-size: 48px;
+  color: #18191f;
+  font-weight: bold;
+}
+.yt-follower p {
+  margin-top: 1rem;
+}
+.footer {
+  background-color: #0b0d17;
+  width: 100%;
+  height: 120px;
+  margin: 0;
+  text-align: center;
+}
+.footer-info h4 {
+  color: #5b5b5b;
+  padding-top: 5px;
+}
+.footer-info p {
+  color: #ffffff;
+}
